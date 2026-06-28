@@ -1,0 +1,21 @@
+# Build
+build/
+build-debug/
+cmake-build-*/
+
+# Binaries
+*_bin
+*.out
+*.exe
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Output (keep structure, ignore content)
+# Uncomment below to track I/O files:
+# !*/Input.txt
+# !*/Expected.txt
