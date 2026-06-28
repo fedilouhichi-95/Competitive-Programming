@@ -53,7 +53,17 @@ int cmp_ll(const void *a, const void *b) {
 
 // ─── Solution ───────────────────────────────────────────────
 void solve(void) {
-    
+    ll n;
+    if (scanf("%lld", &n) != 1) return;
+
+    ll sum;
+    if (n % 2 == 0) {
+        sum = n / 2;
+    } else {
+        sum = -(n + 1) / 2;
+    }
+
+    printf("%lld\n", sum);
 }
 
 // ─── Main ───────────────────────────────────────────────────

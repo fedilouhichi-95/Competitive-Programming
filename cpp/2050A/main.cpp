@@ -70,6 +70,8 @@ int inv(int a, int mod = MOD) { return power(a, mod - 2, mod); }
 
 // ─── Solution ───────────────────────────────────────────────
 void solve() {
+      int x; cin >> x;
+      cout << power(2, x, MOD) << endl;
     
 }
 
