@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/CMake-3.10-064F8C?style=flat&logo=cmake">
   <img src="https://img.shields.io/badge/CLion-ready-21D789?style=flat&logo=clion">
   <img src="https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
+  <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
 <p align="center">
@@ -186,6 +186,10 @@ Les `freopen` dans `main()` sont automatiquement ignorés par Codeforces grâce 
 
 Les problèmes et suggestions sont les bienvenus !  
 Ouvre une **issue** ou soumets une **pull request**.
+
+## 📜 Licence
+
+Distribué sous licence **MIT**. Voir le fichier [`LICENSE`](LICENSE) pour plus d'informations.
 
 ---
 
