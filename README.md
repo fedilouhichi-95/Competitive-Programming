@@ -130,15 +130,7 @@ Le script :
 
 ---
 
-## 📂 Problèmes existants
 
-| ID | Langage | Solution | État |
-|---|---|---|---|
-| [4A - Watermelon](https://codeforces.com/contest/4/problem/A) | C | `c/4A/main.c` | ✅ |
-| [486A - Calculating Function](https://codeforces.com/contest/486/problem/A) | C | `c/486A/main.c` | ✅ Formule O(1) |
-| [2050A - Line Comparison](https://codeforces.com/contest/2050/problem/A) | C++ | `cpp/2050A/main.cpp` | ✅ |
-
----
 
 ## 🔧 Configuration CLion
 
